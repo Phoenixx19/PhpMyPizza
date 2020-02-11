@@ -138,7 +138,9 @@
 
     //insert account
     $sqlacc = "INSERT INTO `users` (`id`, `name`, `surname`, `username`, `psw`, `photo_url`, `level`, `registered`) VALUES
-            (NULL, '".$_POST['usrname']."', '".$_POST['usrsurname']."', '".$_POST['usrusername']."', MD5('".$_POST['usrpassword']."'), '', 0, CURRENT_TIMESTAMP);";
+            (NULL, '".$_POST['usrname']."', '".$_POST['usrsurname']."', '".$_POST['usrusername']."', MD5('".$_POST['usrpassword']."'), '', 0, CURRENT_TIMESTAMP),
+            (NULL, 'once u created another account', 'delete me', 'user1', 'pswd', '', 1, CURRENT_TIMESTAMP),
+            (NULL, 'once u created another account', 'delete me', 'user2', 'pswd', '', 2, CURRENT_TIMESTAMP);";
     $resultacc = $conn->query($sqlacc);
 
     //automated delete query
