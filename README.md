@@ -18,6 +18,8 @@ Per *PhpMyPizza* e' necessario essere in possesso di un webserver o un server co
 
 Nel webserver, e' consigliato l'uso del root (cioe' la cartella /) per ottenere il corretto funzionamento del intero pacchetto.
 
+<br>
+
 ## Installazione
 1. Per installare PHPMyPizza semplicemente scaricare dalle **[releases](https://github.com/Phoenixx19/PhpMyPizza/releases)** la versione più recente, dopo aver scaricato il file .zip sarà necessario aprire il file .zip e trascinare la cartella sul root del webserver.
 
@@ -83,7 +85,7 @@ Nell'assenza di PhpMyAdmin, occorre inserire manualmente le query manualmente tr
 ### Come condivido un bug che ho trovato?
 Nella sezione **[issues](https://github.com/Phoenixx19/PhpMyPizza/issues)** è possibile inserire eventuali bug per migliorare l'esperienza futura del pacchetto PhpMyPizza. Il nostro pacchetto si basa sugli utilizzi di tutti, e con 
 
-<hr>
+<br>
 
 ## Copyright / Licenze
 A noi ci stanno a cuore le licenze. :)
