@@ -1,6 +1,6 @@
 # PhpMyPizza
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Phoenixx19/PhpMyPizza?include_prereleases)](https://github.com/Phoenixx19/PhpMyPizza/releases)
-[![GitHub repo size](https://img.shields.io/github/repo-size/Phoenixx19/PhpMyPizza)](https://github.com/Phoenixx19/PhpMyPizza/releases)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Phoenixx19/PhpMyPizza)](https://github.com/Phoenixx19/PhpMyPizza/releases)
  
 **PhpMyPizza &copy;** e' un gestore di ordini per ristoranti "più tecnologici".
 PhpMyPizza e' basato su *PHP* come linguaggio di programmazione e *SQL (MySQL)* per la gestione del intero ristorante. 
