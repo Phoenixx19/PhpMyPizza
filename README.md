@@ -1,7 +1,7 @@
 # PhpMyPizza
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Phoenixx19/PhpMyPizza?include_prereleases)](https://github.com/Phoenixx19/PhpMyPizza/releases)
  
-**PhpMyPizza &copy;** e' un gestore di ordini per ristoranti "piu' tecnologici".
+**PhpMyPizza &copy;** e' un gestore di ordini per ristoranti "più tecnologici".
 PhpMyPizza e' basato su *PHP* come linguaggio di programmazione e *SQL (MySQL)* per la gestione del intero ristorante. 
 
 ## Requisiti
@@ -17,16 +17,16 @@ Per *PhpMyPizza&copy;* e' necessario essere in possesso di un webserver o un ser
 Nel webserver, e' consigliato l'uso del root (cioe' la cartella /) per ottenere il corretto funzionamento del intero pacchetto.
 
 ## Installazione
-1. Per installare PHPMyPizza&copy; semplicemente scaricare dalle **[releases]()** la versione piu' recente, dopo aver scaricato il file .zip sara' necessario aprire il file .zip e trascinare la cartella sul root del webserver.
+1. Per installare PHPMyPizza&copy; semplicemente scaricare dalle **[releases](https://github.com/Phoenixx19/PhpMyPizza/releases)** la versione più recente, dopo aver scaricato il file .zip sarà necessario aprire il file .zip e trascinare la cartella sul root del webserver.
 
-2. In seguito si dovra' spostare tutti gli elementi all'interno della cartella al di' fuori (e eliminare la cartella ormai inutile).
+2. In seguito si dovrà spostare tutti gli elementi all'interno della cartella al dì fuori (e eliminare la cartella ormai inutile).
 
-3. Aprire il webserver nel caso non sia gia' stato fatto partire e collegatevi tramite qualsiasi browser. Sara' richiesto il completamento di due form dove verranno richiesti le credenziali del database.
+3. Aprire il webserver nel caso non sia già stato fatto partire e collegatevi tramite qualsiasi browser. Sarà richiesto il completamento di due form dove verranno richiesti le credenziali del database.
 
 
-4. Al completamento verra' richiesto il login. 
+4. Al completamento verrà richiesto il login. 
 
-Dopo l'inserimento corretto del account, sara' possibile accedere a PhpMyPizza&copy;. :)
+Dopo l'inserimento corretto del account, sarà possibile accedere a PhpMyPizza&copy;. :)
 
 <br>
 <hr>
@@ -41,14 +41,14 @@ Se il pop-up non appare prova a disabilitare il blocco di pop-up sul tuo disposi
 <br>
 
 ### Come pago il conto?
-Andare su `Conti` e premere sul tasto affianco al tavolo interessato. Si aprira' un pop-up all'interno della pagina (modal) dove sara' possibile controllare il conto di un tavolo, sono applicati coperto e tasse aggiuntive modificabili sulle impostazioni. Una volta confermato il pagamento, i record del tavolo completati vengono eliminati. 
+Andare su `Conti` e premere sul tasto affianco al tavolo interessato. Si aprirà un pop-up all'interno della pagina (modal) dove sarà possibile controllare il conto di un tavolo, sono applicati coperto e tasse aggiuntive modificabili sulle impostazioni. Una volta confermato il pagamento, i record del tavolo completati vengono eliminati. 
 
 Nelle versioni future sarà possibile salvare i record per le statistiche.
 
 <br>
 
 ### Dove modifico le impostazioni?
-Aprendo `Impostazioni` sara' possibile modificare le impostazioni. Nella barra a sinistra si trovano le possibili impostazioni modificabili e premendo una delle possibili si verra' indirizzati nella barra a destra. **E' importante cambiare le impostazioni solo se necessario, in caso di errori, riconfigurare** `config.ini`.
+Aprendo `Impostazioni` sarà possibile modificare le impostazioni. Nella barra a sinistra si trovano le possibili impostazioni modificabili e premendo una delle possibili si verrà indirizzati nella barra a destra. **E' importante cambiare le impostazioni solo se necessario, in caso di errori, riconfigurare** `config.ini`.
 
 Se si sta accedendo per la prima volta al sito, il file di configurazione non sarà disponibile poiche viene creato alla fine della configurazione iniziale.
 
@@ -68,7 +68,7 @@ Andando su `Utenti` si potranno gestire gli utenti nel sito, premendo **+** sull
 <br>
 
 ### Come modifico il menu? *(avanzato)*
-Per modificare il menu occorre accedere a PhpMyAdmin, per fare cio' recatevi sulla homepage e aggiungiete  `/phpmyadmin/`. Eseguire il login e andare sul vostro database utilizzato per PhpMyPizza e selezionare la tabella `menu`.
+Per modificare il menu occorre accedere a PhpMyAdmin, per fare ciò recatevi sulla homepage e aggiungiete  `/phpmyadmin/`. Eseguire il login e andare sul vostro database utilizzato per PhpMyPizza e selezionare la tabella `menu`.
 Una volta entrati nella tabella sarà possibile gestire il proprio menu.
 
 Se si vogliono cancellare i dati all'interno della tabella premere su **Operazioni** quindi **Svuota la tabella (TRUNCATE)**.
@@ -80,13 +80,13 @@ Nell'assenza di PhpMyAdmin, occorre inserire manualmente le query manualmente tr
 <br>
 
 ### Come condivido un bug che ho trovato?
-Nella sezione **[issues]()** è possibile inserire eventuali bug per migliorare l'esperienza futura del pacchetto PhpMyPizza. Il nostro pacchetto si basa sugli utilizzi di tutti, e con 
+Nella sezione **[issues](https://github.com/Phoenixx19/PhpMyPizza/issues)** è possibile inserire eventuali bug per migliorare l'esperienza futura del pacchetto PhpMyPizza. Il nostro pacchetto si basa sugli utilizzi di tutti, e con 
 
 <br>
 <br>
 
 💕 with love,
 
- [Andrea Seppi](), [Giulio Furlan]() con l'aiuto di [Matteo Diblas](). 
+ [Andrea Seppi](https://github.com/Phoenixx19), [Giulio Furlan](https://github.com/GiuFu) con l'aiuto di [Matteo Diblas](https://github.com/alex3025). 
 
 &copy; PhpMyPizza Labs, 2019-2020
