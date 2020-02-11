@@ -1,5 +1,5 @@
 <!-- font awesome -->
-<?php $_SERVER['version'] = "0.9.1alpha"; ?>
+<?php $_SERVER['version'] = "1.0alpha"; ?>
 <script src="https://kit.fontawesome.com/d2ea588ed1.js" crossorigin="anonymous"></script>
 
 <!-- bootstrap 4 -->
