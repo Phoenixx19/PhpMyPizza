@@ -87,8 +87,10 @@ Nella sezione **[issues](https://github.com/Phoenixx19/PhpMyPizza/issues)** è p
 <hr>
 
 ## Copyright / Licenze
-PhpMyPizza utilizza '*[PHP (Hypertext Preprocessor)](https://php.net)*', '*[MySQL](https://www.mysql.com)*', '*[PhpMyAdmin](https://www.phpmyadmin.net)*' e '*[Mobile_Detect](https://github.com/serbanghita/Mobile-Detect)*'.
-Noi rispettiamo la licenza MIT sui software, per questo volevamo richiamare i creatori.
+PhpMyPizza utilizza '*[PHP (Hypertext Preprocessor)](https://php.net)*', '*[MySQL](https://www.mysql.com)*', '*[PhpMyAdmin](https://www.phpmyadmin.net)*' e '*[Mobile_Detect](https://github.com/serbanghita/Mobile-Detect)*'. Noi rispettiamo la licenza MIT sui software:
+
+PhpMyPizza are not affiliated with any of the above. All brands and trademarks belong to their respective owners. PhpMyPizza is not a PHP or MySQL-approved software, nor is it associated with any of them.
+
 <br>
 <br>
 
