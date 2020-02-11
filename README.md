@@ -31,7 +31,6 @@ Nel webserver, e' consigliato l'uso del root (cioe' la cartella /) per ottenere 
 Dopo l'inserimento corretto del account, sarà possibile accedere a PhpMyPizza&copy;. :)
 
 <br>
-<hr>
 
 ## FAQ
 ### Come creo o inserisco un ordine?
