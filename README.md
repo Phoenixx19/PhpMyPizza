@@ -3,14 +3,14 @@
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Phoenixx19/PhpMyPizza)](https://github.com/Phoenixx19/PhpMyPizza/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/Phoenixx19/PhpMyPizza/total)](https://github.com/Phoenixx19/PhpMyPizza/releases)
  
-**PhpMyPizza &copy;** e' un gestore di ordini per ristoranti "più tecnologici".
+**PhpMyPizza** e' un gestore di ordini per ristoranti "più tecnologici".
 PhpMyPizza e' basato su *PHP* come linguaggio di programmazione e *SQL (MySQL)* per la gestione del intero ristorante. 
 
 ## Requisiti
 > I requisiti sono basati su test effettuati in precedenza su [XAMPP](https://www.apachefriends.org/index.html) versione 7.1.3.
 > Non e' garantito il funzionamento utilizzando versioni di **PHP<5.3**.
 
-Per *PhpMyPizza&copy;* e' necessario essere in possesso di un webserver o un server con:
+Per *PhpMyPizza* e' necessario essere in possesso di un webserver o un server con:
 - Apache 2.4.39 **oppure** Nginx (non testato)
 - PHP 7.1.30
 - MySQL 5.6.33
@@ -19,7 +19,7 @@ Per *PhpMyPizza&copy;* e' necessario essere in possesso di un webserver o un ser
 Nel webserver, e' consigliato l'uso del root (cioe' la cartella /) per ottenere il corretto funzionamento del intero pacchetto.
 
 ## Installazione
-1. Per installare PHPMyPizza&copy; semplicemente scaricare dalle **[releases](https://github.com/Phoenixx19/PhpMyPizza/releases)** la versione più recente, dopo aver scaricato il file .zip sarà necessario aprire il file .zip e trascinare la cartella sul root del webserver.
+1. Per installare PHPMyPizza semplicemente scaricare dalle **[releases](https://github.com/Phoenixx19/PhpMyPizza/releases)** la versione più recente, dopo aver scaricato il file .zip sarà necessario aprire il file .zip e trascinare la cartella sul root del webserver.
 
 2. In seguito si dovrà spostare tutti gli elementi all'interno della cartella al dì fuori (e eliminare la cartella ormai inutile).
 
@@ -84,6 +84,11 @@ Nell'assenza di PhpMyAdmin, occorre inserire manualmente le query manualmente tr
 ### Come condivido un bug che ho trovato?
 Nella sezione **[issues](https://github.com/Phoenixx19/PhpMyPizza/issues)** è possibile inserire eventuali bug per migliorare l'esperienza futura del pacchetto PhpMyPizza. Il nostro pacchetto si basa sugli utilizzi di tutti, e con 
 
+<hr>
+
+## Copyright / Licenze
+PhpMyPizza utilizza '*[PHP (Hypertext Preprocessor)](https://php.net)*', '*[MySQL](https://www.mysql.com)*', '*[PhpMyAdmin](https://www.phpmyadmin.net)*' e '*[Mobile_Detect](https://github.com/serbanghita/Mobile-Detect)*'.
+Noi rispettiamo la licenza MIT sui software.
 <br>
 <br>
 
@@ -91,4 +96,4 @@ Nella sezione **[issues](https://github.com/Phoenixx19/PhpMyPizza/issues)** è p
 
  [Andrea Seppi](https://github.com/Phoenixx19), [Giulio Furlan](https://github.com/GiuFu) con l'aiuto di [Matteo Diblas](https://github.com/alex3025). 
 
-&copy; PhpMyPizza Labs, 2019-2020
+PhpMyPizza Labs, 2019-2020
