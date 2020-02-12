@@ -30,7 +30,7 @@ Nel webserver, e' consigliato l'uso del root (cioe' la cartella /) per ottenere 
 
 4. Al completamento verrà richiesto il login. 
 
-Dopo l'inserimento corretto del account, sarà possibile accedere a PhpMyPizza&copy;. :)
+Dopo l'inserimento corretto del account, sarà possibile accedere a PhpMyPizza. :)
 
 <br>
 
