@@ -236,7 +236,7 @@
                             } else {
                                 echo '<i class="text-warning far fa-question-circle" data-toggle="tooltip" data-placement="right" title="This version could not work well. Update your PHP."></i></p>';
                             }
-                            echo '<p class="text-muted">&copy; 2019-'.date("Y").'&nbsp;&minus;&nbsp;PhpMyPizza '.$_SERVER['version'].'</p>
+                            echo '<p class="text-muted">&copy; 2019-2020&nbsp;&minus;&nbsp;PhpMyPizza '.$_SERVER['version'].'</p>
                             <!-- End input fields -->
                         </div>
                     </div>
