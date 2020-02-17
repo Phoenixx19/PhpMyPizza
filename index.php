@@ -1,8 +1,5 @@
 <!-- font awesome -->
-<?php 
-    $_SERVER['version'] = "1.0.1alpha";
-    date_default_timezone_set('America/New_York');
-?>
+<?php $_SERVER['version'] = "1.0alpha"; ?>
 <script src="https://kit.fontawesome.com/d2ea588ed1.js" crossorigin="anonymous"></script>
 
 <!-- bootstrap 4 -->
@@ -209,7 +206,6 @@
                                                 </li>
                                             </ul>
                                         </nav>
-                                        </div>
                                     </div>
                                     <ul class="nav nav-tabs" id="myTab" role="tablist" hidden>
                                         <li class="nav-item">
