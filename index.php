@@ -1,5 +1,8 @@
 <!-- font awesome -->
-<?php $_SERVER['version'] = "1.0.1alpha"; ?>
+<?php 
+    $_SERVER['version'] = "1.0.1alpha";
+    date_default_timezone_set('America/New_York');
+?>
 <script src="https://kit.fontawesome.com/d2ea588ed1.js" crossorigin="anonymous"></script>
 
 <!-- bootstrap 4 -->
