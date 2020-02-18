@@ -14,6 +14,7 @@ Per *PhpMyPizza* e' necessario essere in possesso di un webserver o un server co
 - Apache 2.4.39 **oppure** Nginx (non testato)
 - PHP 7.1.30
 - MySQL 5.6.33
+- Connessione ad Internet
 - PHPMyAdmin (consigliato)
 
 Nel webserver, e' consigliato l'uso del root (cioe' la cartella /) per ottenere il corretto funzionamento del intero pacchetto.
