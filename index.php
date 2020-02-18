@@ -1,5 +1,5 @@
 <!-- font awesome -->
-<?php $_SERVER['version'] = "1.0.2alpha"; ?>
+<?php $_SERVER['version'] = "1.1alpha"; ?>
 <script src="https://kit.fontawesome.com/d2ea588ed1.js" crossorigin="anonymous"></script>
 
 <!-- bootstrap 4 -->
@@ -252,3 +252,4 @@
             header('Location: ../control/');
     }
 }
+
