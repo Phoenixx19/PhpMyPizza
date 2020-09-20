@@ -1,4 +1,4 @@
-# PhpMyPizza
+# PhpMyPizza <img src ="https://raw.githubusercontent.com/Phoenixx19/PhpMyPizza/master/resources/phpmypizza.ico" width="80px" alt="phpmypizza logo" align ="right">
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Phoenixx19/PhpMyPizza?include_prereleases)](https://github.com/Phoenixx19/PhpMyPizza/releases)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Phoenixx19/PhpMyPizza)](https://github.com/Phoenixx19/PhpMyPizza/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/Phoenixx19/PhpMyPizza/total)](https://github.com/Phoenixx19/PhpMyPizza/releases)
